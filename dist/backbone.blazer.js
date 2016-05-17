@@ -1,4 +1,4 @@
-// Backbone.Blazer v0.0.2
+// Backbone.Blazer v1.0.0
 ;(function (root, factory) {
     // https://github.com/umdjs/umd/blob/master/returnExports.js
     if (typeof exports === 'object') {
