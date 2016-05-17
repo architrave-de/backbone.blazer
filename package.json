@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Betterment/backbone.blazer"
+    "url": "https://github.com/architrave-de/backbone.blazer"
   },
   "keywords": [
     "backbone",
@@ -37,9 +37,5 @@
     "routing"
   ],
   "author": "Sam Moore <sam@betterment.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Betterment/backbone.blazer/issues"
-  },
-  "homepage": "https://github.com/Betterment/backbone.blazer"
+  "license": "MIT"
 }
