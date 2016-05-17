@@ -1,7 +1,7 @@
 {
   "name": "backbone.blazer",
-  "version": "0.0.2",
-  "description": "a more powerful router for Backbone and Marionette",
+  "version": "1.0.0",
+  "description": "a more powerful router for Backbone and Marionette (fork)",
   "main": "backbone.blazer.js",
   "dependencies": {
     "backbone": "1.1.2",
